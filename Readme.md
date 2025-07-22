@@ -7,6 +7,15 @@ This project implements a binary classification neural network to predict the li
 
 ---
 
+## Dataset
+
+1. [Kaggle] Heart Failure:  
+<https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction>
+2. [UC Irvine] Heart Failure:  
+<https://archive.ics.uci.edu/dataset/519/heart+failure+clinical+records>
+
+---
+
 ## Table of Contents  
 1. [Project Goals](#project-goals)  
 2. [Model Architecture](#model-architecture)  
@@ -116,11 +125,3 @@ heart-failure-predictor/
 This project is licensed under the MIT License.
 See the LICENSE file for details.
 
----
-
-## Dataset
-
-1. [Kaggle] Heart Failure:  
-<https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction>
-2. [UC Irvine] Heart Failure:  
-<https://archive.ics.uci.edu/dataset/519/heart+failure+clinical+records>
