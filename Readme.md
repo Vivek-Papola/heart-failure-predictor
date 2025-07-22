@@ -14,6 +14,16 @@ This project implements a binary classification neural network to predict the li
 2. [UC Irvine] Heart Failure:  
 <https://archive.ics.uci.edu/dataset/519/heart+failure+clinical+records>
 
+- [Plotting Sigmoid Function](./sigmoid-function.ipynb)
+  
+- [Binary Classify Heart Failure - 8 features - Kaggle Dataset](./classify-heart-failure.ipynb)⭐
+![plot 1](image.png)
+
+- [Binary Classify Heart Failure - 3 features - Kaggle Dataset](./classify-heart-failure-2.ipynb)
+  
+- [Binary Classify Heart Failure - 7 features - UCI Dataset](./class-heart-failure-ds-2.ipynb) ⭐
+![alt text](image-1.png)
+
 ---
 
 ## Table of Contents  
